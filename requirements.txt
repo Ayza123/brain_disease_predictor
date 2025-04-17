@@ -1,5 +1,8 @@
-tensorflow==2.3.0
-keras==2.4.3
-numpy==1.19.2
-Pillow==9.4.0
-streamlit==1.24.1
+streamlit==1.38.0
+tensorflow==2.13.0  # or 2.12.0, both work with Python 3.11+
+keras==2.13.1       # Must match TensorFlow version
+numpy
+pandas
+scikit-learn
+matplotlib
+# Add anything else you need

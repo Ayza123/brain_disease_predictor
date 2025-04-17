@@ -1,7 +1,6 @@
 Keras==2.4.3
 numpy==1.23.5
 Pillow==11.2.1
-
 streamlit==1.43.2
 streamlit==1.16.0
 streamlit==1.24.1
